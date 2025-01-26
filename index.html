@@ -244,10 +244,6 @@
         renderer.render(scene, camera);
       }
 
-      // The user wants the slider -> exponent in [-1..1], producing scale in [0.5..2].
-      // If the texture is generated, we apply an additional factor of 0.5 internally.
-      // We still want the displayed value to be the raw user scale, so the text always
-      // shows 0.5..2.
 
       function getDisplayedScale(exponent) {
         // This is what we show in the UI.
