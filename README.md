@@ -15,6 +15,10 @@ Welcome to **Texture Generator**, a simple hobby project designed to generate AI
 
 ---
 
+[![Screenshot of the Texture Generator](Example.png)](https://adamnizol.github.io/Texture-Generator/)
+
+---
+
 ## Features
 
 - **AI-Powered Texture Creation**  
